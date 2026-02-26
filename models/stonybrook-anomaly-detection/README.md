@@ -1,6 +1,6 @@
 # Stonybrook Anomaly Detection
 
-Real-time solar inverter anomaly detection using cross-prediction models. Developed at Stony Brook University.
+Real-time solar inverter anomaly detection using cross-prediction models. Developed at Stony Brook University.  The research paper published on this work is available [here](https://www.researchgate.net/publication/396743294_Identifying_High-Significance_Latent_Physical_Anomalies_in_Solar_Energy_Systems) and a general news article on the topic is available [here](https://pv-magazine-usa.com/2025/12/18/machine-learning-models-identify-hidden-physical-defects-in-solar-arrays/).
 
 ## Overview
 
