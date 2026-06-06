@@ -1,6 +1,6 @@
 # SolarQuant Model Zoo
 
-A catalog of machine learning plugins for SolarQuant, the edge ML platform for solar energy systems. Each model listed here implements the [SolarQuant plugin spec](plugin-spec/) and can be deployed to SolarNodes for real-time inference on live inverter data.
+A catalog of machine learning plugins for [SolarQuant](https://github.com/ecosuite/solarquant), the edge ML platform for solar energy systems. Each model listed here implements the [SolarQuant plugin spec](plugin-spec/) and can be deployed to SolarNodes for real-time inference on live inverter data.
 
 Models live in their own repositories -- this zoo links to them with brief model cards and hosts the shared plugin specification.
 
