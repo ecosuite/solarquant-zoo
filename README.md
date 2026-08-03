@@ -9,6 +9,7 @@ Models live in their own repositories -- this zoo links to them with brief model
 | Model | Description | Repo |
 |-------|-------------|------|
 | [Stonybrook Anomaly Detection](models/stonybrook-anomaly-detection/) | Real-time solar inverter anomaly detection using cross-prediction | TODO |
+| [Triage](models/triage/) | Daily solar fault triage classifier | [Github](https://github.com/hoodsy/solar-triage) |
 
 ## Plugin Architecture
 
